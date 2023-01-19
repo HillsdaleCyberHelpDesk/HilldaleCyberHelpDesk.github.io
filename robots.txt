@@ -6,4 +6,4 @@ Disallow: /dev/
 User-agent: Googlebot-Image
 Allow: /assets/images/
 
-Sitemap: https://coldogstudios.github.io/sitemap/sitemap.xml
+Sitemap:
