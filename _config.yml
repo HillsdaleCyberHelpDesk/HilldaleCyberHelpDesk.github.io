@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
 title: HACC Cybersecurity | Home
 description: Submit your computer issues for help!
+theme: jekyll-theme-midnight
+google_analytics: [Your Google Analytics tracking ID]
