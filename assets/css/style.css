@@ -7,14 +7,13 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #ddd;
-  /*background-color: #5c5c5c;*/
+  background-color: #aaa;
   line-height: 1.6;
 }
 
 h1 {
   font-size: 40px;
-  color: #0096cd;
+  color: #44c8f5;
   text-align: center;
   margin-top: 14px;
   margin-bottom: 0;
@@ -27,7 +26,7 @@ h1 {
 
 h2 {
   font-size: 32px;
-  color: #0096cd;
+  color: #44c8f5;
   margin-top: 14px;
   margin-bottom: 0;
 }
@@ -38,7 +37,7 @@ h2 {
 
 h3 {
   font-size: 26px;
-  color: #0096cd;
+  color: #44c8f5;
   margin-top: 14px;
   margin-bottom: 8px;
 }
@@ -49,7 +48,7 @@ h3 {
 
 p, li {
   font-size: 18px;
-  color: #444;
+  color: #555;
   /*color: #dcdcdc;*/
 }
 
@@ -60,11 +59,11 @@ p, ol, ul {
 
 a {
   text-decoration: none;
-  color: #0096cd;
+  color: #44c8f5;
 }
 
 a:active {
-  color: #0060a0;
+  color: #44accc;
 }
 
 .content {
@@ -90,7 +89,7 @@ code {
 }
 
 .btn {
-  background-color: #0096cd;
+  background-color: #44c8f5;
   border: none;
   color: #f0f0f0;
   padding: 16px 32px;
@@ -101,11 +100,11 @@ code {
 }
 
 .btn:hover {
-  background-color: #0060a0;
+  background-color: #44accc;
 }
 
 .btn:active {
-  background-color: #0040cd;
+  background-color: #388ea8;
 }
 
 /* BEGIN SCROLLBAR*/
@@ -113,7 +112,7 @@ code {
 /* Firefox */
 * {
   scrollbar-width: auto;
-  scrollbar-color: #0096cd #ddd; /* Thumb, Track */
+  scrollbar-color: #44c8f5 #ddd; /* Thumb, Track */
 }
 
 /* Chrome, Edge, Safari */
@@ -131,11 +130,11 @@ code {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #0096cd;
+  background: #44accc;
 }
 
 ::-webkit-scrollbar-thumb:active {
-  background: #0060a0;
+  background: #388ea8;
 }
 
 /* END SCROLLBAR*/
@@ -143,13 +142,13 @@ code {
 /* BEGIN FOOTER */
 
 footer {
-  background-color: #333;
+  background-color: #222;
   overflow: hidden;
   padding: 120px 14px;
 }
 
 footer h4 {
-  color: #0096cd;
+  color: #44c8f5;
   font-size: 16px;
   font-weight: bold;
   margin-top: 0;
@@ -214,7 +213,7 @@ footer li a:hover {
 nav {
   height: 80px;
   width: 100%;
-  background: #444;
+  background: #333;
   position: fixed;
   top: 0;
 }
@@ -285,7 +284,7 @@ nav #icon {
     position: fixed;
     width: 100%;
     height: 100vh;
-    background: #333;
+    background: #222;
     top: 80px;
     left: -115%;
     text-align: center;
