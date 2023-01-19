@@ -219,8 +219,8 @@ nav {
 }
 
 label.logo {
-  padding: 0 100px;
-  line-height: 80px;
+  padding: 2px 100px;
+  height: 76px;
 }
 
 nav ul {
