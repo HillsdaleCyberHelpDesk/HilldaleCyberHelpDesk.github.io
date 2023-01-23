@@ -200,6 +200,12 @@ footer li a:hover {
   opacity: 0.6;
 }
 
+.copyright a {
+  color: #f0f0f0;
+  font-weight: bold;
+  opacity: 0.7;
+}
+
 /* END FOOTER */
 
 /* BEGIN NAVIGATION */
